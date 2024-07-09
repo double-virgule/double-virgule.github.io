@@ -1,3 +1,8 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-feed
+title: DoubleVirgule 
+description: Random Writings of a Techie
+author: DoubleVirgule
+permalink: /:year/:month/:day/:title:output_ext
