@@ -6,7 +6,7 @@ description: Biscuit is a single-page responsive Jekyll theme. This is the most 
 url: "https://github.doublevirgule.fyi" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
-  - jekyll-seo-tag
+#  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
