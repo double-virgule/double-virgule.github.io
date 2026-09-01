@@ -2,7 +2,7 @@
 title: Biscuit Theme for Jekyll
 tag_text: Biscuit
 description: Biscuit is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
-# baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/index.md" # the subpath of your site, e.g. /blog
 url: "https://github.doublevirgule.fyi" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
