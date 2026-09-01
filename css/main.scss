@@ -7,3 +7,20 @@
   'normalize',
   'biscuit',
   'syntax';
+
+.center-container {
+  margin: auto;
+  width: 100%;
+  max-width: 1200px; /* optional: limit width */
+}
+
+.center-container > * {
+  text-align: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
